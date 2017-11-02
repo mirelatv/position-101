@@ -1,0 +1,12 @@
+titulo{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 40px;
+}
+
+#box_2 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  background: #f95b34;
+}
